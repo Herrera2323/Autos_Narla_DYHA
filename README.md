@@ -1,7 +1,7 @@
 # Autos_Narla_DYHA
 Caso de Estudios Base de Datos Autos Narla 
 Este repositorio contiene todo lo solicitado en el caso de estudio "Autos NARLA":
-- Diseño lógico (PlantUML)
+- Diseño lógico (ER STUDIO)
 - Scripts SQL para SQL Server 2022 (creación de DB, tablas, datos, triggers, SP, consultas)
 - Diccionario de datos
 - Instrucciones para ejecutar y desplegar
