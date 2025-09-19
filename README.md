@@ -16,6 +16,6 @@ Este repositorio contiene todo lo solicitado en el caso de estudio "Autos NARLA"
    - `script/04_stored_procedules.sql` 
    - `script/03_queries.sql`
 
-4. falta el diagrama
+4. Diagrama (ER-Diseño)
 
 
