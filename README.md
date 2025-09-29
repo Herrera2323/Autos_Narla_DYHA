@@ -17,5 +17,5 @@ Este repositorio contiene todo lo solicitado en el caso de estudio "Autos NARLA"
    - `script/03_queries.sql`
 
 4. Diagrama (ER-Diseño)
-
+5. Transaction_SQL (uso de Begin-Commint-Rollback)
 
